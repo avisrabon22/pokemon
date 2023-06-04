@@ -1,6 +1,6 @@
 package com.avijit.pokemon.controller;
 
-import org.springframework.cache.annotation.CacheConfig;
+// import org.springframework.cache.annotation.CacheConfig;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

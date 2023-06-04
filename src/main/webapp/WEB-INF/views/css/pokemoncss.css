@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.search-form {
+    text-align: center;
+}
+
+.response-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.response-box {
+    width: 48%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
